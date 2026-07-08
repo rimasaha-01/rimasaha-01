@@ -31,7 +31,7 @@ Learning, Building, and Solving Real-World Problems with Data.
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rima-saha/" target="_blank">
+  <a href="www.linkedin.com/in/rima-saha-1b3bbb3ba/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
