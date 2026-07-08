@@ -28,25 +28,28 @@ Learning, Building, and Solving Real-World Problems with Data.
 - 📫 Reach me at **rimawfh.220@gmail.com**
 
 ---
+## 🤝 Let's Connect
 
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/rima-saha/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-</a>
-
-<a href="https://leetcode.com/rimasaha_01/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
-</a>
-
-<a href="https://github.com/rimasaha-01" target="_blank">
-<img src="https://img.icons8.com/ios-glyphs/40/github.png"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rima-saha/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/rimasaha_01/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45" alt="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/rimasaha-01" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  </a>
 </p>
 
----
-# 💻 Tech Stack
+<p align="center">
+  <b>Let's connect, collaborate, and build something amazing together!</b>
+</p>
+
+
+## 💻 Tech Stack
 
 <details open>
 <summary><b>📝 Languages</b></summary>
@@ -90,7 +93,7 @@ Learning, Building, and Solving Real-World Problems with Data.
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 
 </p>
