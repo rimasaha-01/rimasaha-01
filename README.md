@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi,+I'm+Rima+Saha;Data+Analyst;Python+Developer;Machine+Learning+Enthusiast;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=700&lines=Hi👋,+I'm+Rima+Saha;Data+Analyst+📊;Python+Developer+⚡;Machine+Learning+Enthusiast+🧠;" />
 </p>
 
 
