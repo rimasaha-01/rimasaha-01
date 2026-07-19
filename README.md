@@ -31,25 +31,31 @@ Learning, Building, and Solving Real-World Problems with Data.
 ## 🤝 Let's Connect
 
 <p align="center">
+  <a href="https://github.com/rimasaha-01" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/rima-saha-1b3bbb3ba/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
+
   <a href="https://leetcode.com/rimasaha_01/" target="_blank">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45" alt="LeetCode"/>
   </a>
-  <a href="https://www.hackerrank.com/rimasaha_01" target="_blank">
-  <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="45" alt="HackerRank"/>
-</a>
   &nbsp;&nbsp;
-  <a href="https://github.com/rimasaha-01" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+
+  <a href="https://www.hackerrank.com/profile/preprocess1530" target="_blank">
+    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="45" alt="HackerRank"/>
   </a>
 </p>
 
 <p align="center">
   <b>Let's connect, collaborate, and build something amazing together!</b>
 </p>
+
+
 
 
 ## 💻 Tech Stack
