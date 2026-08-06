@@ -21,8 +21,7 @@ Learning, Building, and Solving Real-World Problems with Data.
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering (Data Science)
-- 🔭 Currently working on **Payment Fraud Detection**
-- 🌱 Learning **Machine Learning, Data Analytics & Deep Learning**
+- 🌱 Learning **Machine Learning, Deep Learning**
 - 💡 Interested in **Data Science, AI and Python Development**
 - 💬 Ask me about **Python, SQL, Power BI, Machine Learning**
 - 📫 Reach me at **rimawfh.220@gmail.com**
