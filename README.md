@@ -34,14 +34,16 @@ Learning, Building, and Solving Real-World Problems with Data.
     <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
-
   <a href="https://www.linkedin.com/in/rima-saha-1b3bbb3ba/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-
+  <a href="https://leetcode.com/u/QnNnafjqtX/" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode" height="45" alt="LeetCode"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/preprocess1530" target="_blank">
-    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="45" alt="HackerRank"/>
+    <img src="https://cdn.simpleicons.org/hackerrank" height="45" alt="HackerRank"/>
   </a>
 </p>
 
